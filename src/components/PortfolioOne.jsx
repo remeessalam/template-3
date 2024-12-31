@@ -76,7 +76,7 @@ const PortfolioOne = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-6 portfolio-card-wrap">
+          {/* <div className="col-lg-6 portfolio-card-wrap">
             <div className="portfolio-card">
               <div className="portfolio-card-thumb">
                 <img src="assets/img/portfolio/3-min.webp" alt="img" />
@@ -86,26 +86,16 @@ const PortfolioOne = () => {
                   <span className="portfolio-card-details_subtitle">
                     Glowsy{" "}
                   </span>
-                  <p
-                    // className="portfolio-card-details_title"
-                    style={{ color: "black" }}
-                  >
-                    {/* <Link to="/project-details"> */}
+                  <p style={{ color: "black" }}>
                     Glowsy is one of the fastest growing aesthetic software
                     which provides a platform for patients to connect with the
                     best doctor for all the aesthetic concerns across the
-                    country. {/* </Link> */}
+                    country.
                   </p>
                 </div>
-                {/* <Link to="/project-details" className="icon-btn">
-                  <img
-                    src="assets/img/icon/arrow-up-right.svg"
-                    alt="Bizmaster"
-                  />
-                </Link> */}
               </div>
             </div>
-          </div>
+          </div> */}
           {/* <div className="col-lg-6 portfolio-card-wrap">
             <div className="portfolio-card">
               <div className="portfolio-card-thumb">

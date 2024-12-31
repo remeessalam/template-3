@@ -106,9 +106,9 @@ const TestimonialOne = () => {
                           style={{ color: "black" }}
                         >
                           The client appreciates being able to speak in layman
-                          terms to Visionary AI Technologies's project manager.
-                          Their technical knowledge and suggestions influenced
-                          the evolution of the client's vision.
+                          terms to [your company name]'s project manager. Their
+                          technical knowledge and suggestions influenced the
+                          evolution of the client's vision.
                         </p>
                         <div className="testi-card-profile">
                           <div className="testi-profile_thumb">
@@ -150,8 +150,8 @@ const TestimonialOne = () => {
                           className="testi-card_text"
                           style={{ color: "black" }}
                         >
-                          Visionary AI Technologies is dependable and responsive
-                          to client’s request. Always easy and convenient to
+                          [your company name] is dependable and responsive to
+                          client’s request. Always easy and convenient to
                           communicate with them for any issues and support.
                           Gladly recommend them to anyone who wants to build
                           ideas into real products.
@@ -196,10 +196,10 @@ const TestimonialOne = () => {
                           className="testi-card_text"
                           style={{ color: "black" }}
                         >
-                          To the teams of Visionary AI Technologies - excellent
-                          job done with very smooth and responsive
-                          communication! The teams are very knowledgeable and
-                          had given us lots of valuable advices.
+                          To the teams of [your company name] - excellent job
+                          done with very smooth and responsive communication!
+                          The teams are very knowledgeable and had given us lots
+                          of valuable advices.
                         </p>
                         <div className="testi-card-profile">
                           <div className="testi-profile_thumb">
@@ -241,7 +241,7 @@ const TestimonialOne = () => {
                           style={{ color: "black" }}
                         >
                           The apps meet high-quality standards and include many
-                          robust features. Visionary AI Technologies is clearly
+                          robust features. [your company name] is clearly
                           invested in the project's success. The team suggests
                           creative ideas, shares detailed progress reports, and
                           always delivers on time.

@@ -35,38 +35,38 @@ import uiuxdesign from "./assets/images/appservice/ui-ux-design-icon.svg";
 export const companyDetails = {
   phone: "+91 9916333339",
   whatsappbox: "9916333339",
-  email: "support@visionaryaitechnologies.com",
-  facebook: "https://www.facebook.com/profile.php?id=61564355138705",
-  twitter: "https://x.com/bvr6030",
-  linkedin: "https://www.linkedin.com/company/visionary-ai-technologies/",
-  instagram: "https://www.instagram.com/visionaryaitechnologies/",
+  email: "abc@example.com",
+  facebook: "",
+  twitter: "",
+  linkedin: "",
+  instagram: "",
 };
 export const services = [
   {
     title: "Mobile App Development",
     description:
-      "Visionary AI Technologies delivers custom mobile app solutions, combining sleek design with robust functionality. Our apps are user-centric, scalable, and compatible across all platforms, ensuring a seamless user experience that drives engagement and meets your business objectives.",
+      "[your company name] delivers custom mobile app solutions, combining sleek design with robust functionality. Our apps are user-centric, scalable, and compatible across all platforms, ensuring a seamless user experience that drives engagement and meets your business objectives.",
     imgSrc: app,
     link: "/service-details",
   },
   {
     title: "Web App Development",
     description:
-      "Visionary AI Technologies crafts high-performance web applications tailored to your business needs. Our responsive, secure, and scalable web apps offer intuitive interfaces and seamless functionality, ensuring an exceptional user experience while enhancing your digital presence and operational efficiency.",
+      "[your company name] crafts high-performance web applications tailored to your business needs. Our responsive, secure, and scalable web apps offer intuitive interfaces and seamless functionality, ensuring an exceptional user experience while enhancing your digital presence and operational efficiency.",
     imgSrc: web,
     link: "/service-details",
   },
   {
     title: "Game Development",
     description:
-      "At Visionary AI Technologies, we specialize in creating immersive and engaging gaming experiences across various platforms. Our team of skilled developers and designers brings your ideas to life, blending cutting-edge graphics with seamless gameplay.",
+      "At [your company name], we specialize in creating immersive and engaging gaming experiences across various platforms. Our team of skilled developers and designers brings your ideas to life, blending cutting-edge graphics with seamless gameplay.",
     imgSrc: game,
     link: "/service-details",
   },
   {
     title: "Chatbot Development",
     description:
-      "Visionary AI Technologies offers state-of-the-art chatbot development services designed to enhance customer engagement and streamline business operations. Our AI-powered chatbots are built to understand and respond to user queries with human-like precision.",
+      "[your company name] offers state-of-the-art chatbot development services designed to enhance customer engagement and streamline business operations. Our AI-powered chatbots are built to understand and respond to user queries with human-like precision.",
     imgSrc: chat,
     link: "/service-details",
   },
@@ -80,14 +80,14 @@ export const services = [
   {
     title: "Blockchain Development",
     description:
-      "Visionary AI Technologies harnesses the power of blockchain to revolutionize your business processes with enhanced security, transparency, and efficiency. Our blockchain development services cover a wide range of applications.",
+      "[your company name] harnesses the power of blockchain to revolutionize your business processes with enhanced security, transparency, and efficiency. Our blockchain development services cover a wide range of applications.",
     imgSrc: block,
     link: "/service-details",
   },
   {
     title: "AR VR",
     description:
-      "Step into the future with Visionary AI Technologies' Augmented Reality (AR) and Virtual Reality (VR) solutions. We create immersive and interactive AR/VR experiences that transform the way users interact with digital content.",
+      "Step into the future with [your company name]' Augmented Reality (AR) and Virtual Reality (VR) solutions. We create immersive and interactive AR/VR experiences that transform the way users interact with digital content.",
     imgSrc: arvr,
     link: "/service-details",
   },
@@ -106,12 +106,7 @@ export const portfolioDataApp = [
       "Driver is a comprehensive driver management platform that simplifies fleet operations, driver scheduling, and route optimization. The app is designed to maximize productivity and provide seamless navigation features.",
     image: portfoliapptwo,
   },
-  {
-    name: "Glowsy",
-    description:
-      "Glowsy is a beauty and wellness app offering personalized beauty care recommendations and virtual consultations. Our team developed this app to provide an engaging, user-centered experience with tailored beauty solutions.",
-    image: portfoliappthree,
-  },
+
   {
     name: "Artisan Express",
     description:

@@ -12,11 +12,11 @@ const WhyChoose = () => {
                 Why Choose Us ?
               </span>
               <p className=" " style={{ color: "black" }}>
-                Visionary AI Technologies stands out as a leading Web App
-                Development company, renowned for helping clients reimagine
-                their digital future. With our extensive experience and
-                expertise, we adeptly manage even the most complex projects,
-                delivering exceptional results with competence and innovation.
+                [your company name] stands out as a leading Web App Development
+                company, renowned for helping clients reimagine their digital
+                future. With our extensive experience and expertise, we adeptly
+                manage even the most complex projects, delivering exceptional
+                results with competence and innovation.
               </p>
             </div>
           </div>
@@ -69,7 +69,7 @@ const WhyChoose = () => {
                     Agile Approach
                   </h4>
                   <p className="wcu-card-text">
-                    At Visionary AI Technologies, we offer the most feature-rich
+                    At [your company name], we offer the most feature-rich
                     solution with the collaborative effort of self-organizing
                     and cross-functional teams.
                   </p>

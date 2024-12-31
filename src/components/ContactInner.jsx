@@ -32,7 +32,7 @@ const ContactInner = ({ page }) => {
     var payload = {
       to: companyDetails.email,
       // to: "remeesreme4u@gmail.com",
-      subject: "You have a new message from visionary ai",
+      subject: "You have a new message from [your company name] ",
       body: emailBody,
     };
 

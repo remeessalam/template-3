@@ -44,13 +44,13 @@ const HeroOne = ({ page }) => {
                         tackle the unique challenges of your business.
                       </h6>
                       <p>
-                        At Visionary AI Technologies, we take pride in offering
-                        a wide range of advanced technologies to deliver
-                        dependable web application development solutions to
-                        clients globally. As a leading web application
-                        development company, we are committed to providing
-                        innovative technology solutions that drive the creation
-                        of next-generation web applications.
+                        At [your company name], we take pride in offering a wide
+                        range of advanced technologies to deliver dependable web
+                        application development solutions to clients globally.
+                        As a leading web application development company, we are
+                        committed to providing innovative technology solutions
+                        that drive the creation of next-generation web
+                        applications.
                       </p>
                     </>
                   )}
@@ -61,9 +61,9 @@ const HeroOne = ({ page }) => {
                         Services.
                       </h6>
                       <p>
-                        Harness the app development prowess of Visionary AI
-                        Technologies, a leading mobile app development company
-                        with a proven track record. Our expert developers have
+                        Harness the app development prowess of [your company
+                        name], a leading mobile app development company with a
+                        proven track record. Our expert developers have
                         successfully partnered with startups, mid-sized
                         businesses, and enterprises, delivering custom app
                         solutions to global clients. From basic mobile apps to

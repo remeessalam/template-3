@@ -31,16 +31,16 @@ const AboutOne = () => {
                   Advancing Boldly into the Future with Digital Innovation{" "}
                 </h2>
                 <p className="sec-text mb-35">
-                  Visionary AI Technologies is a premier mobile app development
-                  and IT solutions company based in India. We have a proven
-                  track record of creating top-ranked mobile apps for Google
-                  Play, App Store, and wearables, while specializing in
-                  cutting-edge technologies such as blockchain, AI, VR, and AR.
-                  With years of experience and a team of skilled developers, we
-                  are uniquely positioned to drive innovation in your business
-                  and the broader IT landscape. Our handpicked experts are
-                  committed to personal and professional growth, and we provide
-                  them with comprehensive support to achieve excellence.
+                  [your company name] is a premier mobile app development and IT
+                  solutions company based in India. We have a proven track
+                  record of creating top-ranked mobile apps for Google Play, App
+                  Store, and wearables, while specializing in cutting-edge
+                  technologies such as blockchain, AI, VR, and AR. With years of
+                  experience and a team of skilled developers, we are uniquely
+                  positioned to drive innovation in your business and the
+                  broader IT landscape. Our handpicked experts are committed to
+                  personal and professional growth, and we provide them with
+                  comprehensive support to achieve excellence.
                 </p>
                 <p>
                   We foster a motivating environment that enables our employees
@@ -49,9 +49,9 @@ const AboutOne = () => {
                   within budget, which has helped us forge strong, long-term
                   customer relationships. Each project is approached with a
                   personalized focus on the customer, ensuring that we find the
-                  most effective and successful solutions. At Visionary AI
-                  Technologies, we deeply value our customers and are dedicated
-                  to exceeding their expectations in every project.
+                  most effective and successful solutions. At [your company
+                  name], we deeply value our customers and are dedicated to
+                  exceeding their expectations in every project.
                 </p>
               </div>
 

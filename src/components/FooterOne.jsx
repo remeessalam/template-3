@@ -107,26 +107,6 @@ const FooterOne = () => {
           </div>
         </div>
       </div>
-      {/* <div className="container">
-        <div className="copyright-wrap">
-          <div className="row gy-3 justify-content-lg-between justify-content-center">
-            <div className="col-auto align-self-center">
-              <p className="copyright-text text-center">
-                © <Link to="/">Visionary Ai Technologies </Link> 2024 | All
-                Rights Reserved
-              </p>
-            </div>
-            <div className="col-auto">
-              <div className="footer-links">
-                <Link to="/contact">Privacy</Link>
-                <Link to="/contact">Terms</Link>
-                <Link to="/contact">Sitemap</Link>
-                <Link to="/contact">Help</Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> */}
     </footer>
   );
 };
